@@ -40,8 +40,6 @@ Here are some ideas to get you started:
 
 <br>
 
-[![sueelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueelly)](https://github.com/sueelly/github-readme-stats)
-
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
